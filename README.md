@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer From Islamabad, Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifriaz2023&label=Profile%20views&color=0e75b6&style=flat" alt="kashifriaz2023" /> </p>
+
 - 🌱 I’m currently learning **Web Development, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning projects.**
